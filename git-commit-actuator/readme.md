@@ -6,7 +6,7 @@ Sample showing how to include Git commit information in Spring Boot Actuator `/i
 
 [![Youtube Video](https://j.gifs.com/L7zoJA.gif)](https://www.youtube.com/watch?v=tan2UglgvME)
 
-### 1. Git Commit Id Maven plugin
+### 1. Add Git Commit Id Maven plugin
 
 ```xml
 <plugin>
