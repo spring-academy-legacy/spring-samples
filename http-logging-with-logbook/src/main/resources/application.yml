@@ -1,0 +1,6 @@
+logging.level.org.zalando.logbook.Logbook: trace
+
+logbook:
+  format.style: http
+  obfuscate.headers:
+    - MY-HEADER
