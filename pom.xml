@@ -10,6 +10,7 @@
 	<modules>
         <module>git-commit-actuator</module>
 		<module>logging-sql-datasource-proxy</module>
+		<module>http-logging-with-logbook</module>
 	</modules>
 
 
